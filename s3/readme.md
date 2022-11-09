@@ -1,2 +1,3 @@
-Semana 3
-Who do we spend time with across our lifetime?
+# Semana 3
+
+### Who do we spend time with across our lifetime?
