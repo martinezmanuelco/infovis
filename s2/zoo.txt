@@ -1,0 +1,33 @@
+*** A Tour through the Visualization Zoo ***
+
+The goal of visualization is to aid our understanding of data by leveraging the human visual system’s highly tuned ability to see patterns, spot trends, and identify outliers. Well-designed visual representations can replace cognitive calculations with simple perceptual inferences.
+
+The challenge is that for any given data set the number of visual encodings—and thus the space of possible visualization designs—is extremely large.
+
+all visualizations share a common “DNA”—a set of mappings between data properties and visual attributes such as position, size, shape, and color—and that customized species of visualization might always be constructed by varying these encodings.
+
+TIME-SERIES DATA - STACKED GRAPHS
+By stacking area charts on top of each other, we arrive at a visual summation of time-series values—a stacked graph. A stacked graph does not support negative numbers and is meaningless for data that should not be summed (temperatures, for example).
+Moreover, stacking may make it difficult to accurately interpret trends that lie atop other curves.
+
+SPLOM (SCATTER PLOT MATRIX)
+Multivariate data occurs frequently and is notoriously hard to represent, in part because of the difficulty of mentally picturing data in more than three dimensions. One technique to overcome this problem is to use small multiples of scatter plots showing a set of pairwise relations among variables.
+
+NETWORKS
+In addition to organization, one aspect of data that we may wish to explore through visualization is relationship. For example, given a social network, who is friends with whom?
+Abstractly, a hierarchy is a specialized form of network: each node has exactly one link to its parent, while the root node has no links. Thus node-link diagrams are also used to visualize networks, but the loss of hierarchy means a different algorithm is required to position nodes.
+
+
+PARALLEL COORDINATES
+we repeatedly plot the data on parallel axes and then connect the corresponding points with lines. Reordering dimensions can aid pattern finding, as can interactive querying to filter along one or more dimensions.
+
+
+HIERARCHIES
+While some data is simply a flat collection of numbers, most can be organized into natural hierarchies.
+Special visualization techniques exist to leverage hierarchical structure, allowing rapid multiscale inferences: micro-observations of individual elements and macro-observations of large groups.
+
+ARC DIAGRAMS
+An arc diagram, shown in figure 5B, uses a one-dimensional layout of nodes, with circular arcs to represent links. Though an arc diagram may not convey the overall structure of the graph as effectively as a two-dimensional layout, with a good ordering of nodes it is easy to identify cliques and bridges.
+
+CONCLUSION
+the DNA underlying all visualizations remains the same: the principled mapping of data variables to visual features such as position, size, shape, and color.
