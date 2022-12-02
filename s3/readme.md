@@ -10,7 +10,7 @@ Visualizaciones hechas:
 
 Visualizaciones hechas:
 
-1. [Tableau](https://martinezmanuelco.github.io/infovis/s3/tableau_covid.html)
+1. [Tableau](https://martinezmanuelco.github.io/infovis/s3/tableau-covid.html)
 
 
 ### COVID 19 INDEX
