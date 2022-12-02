@@ -15,3 +15,5 @@ Visualizaciones hechas:
 
 Zoologico de visualizaciones:
 [Zoo](https://martinezmanuelco.github.io/infovis/s2/zoo.txt)
+
+
