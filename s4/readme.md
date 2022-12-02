@@ -1,6 +1,5 @@
-# Tablero de datos personales
+# Semana 4
 
-Los datos utilizados fueron tomados a diario, segun la reproduccion de listas de musica escuchadas durante la jornada laboral.
+### How much does cocaine and heroine cost around the world?
 
-
-1. [Tableau](https://martinezmanuelco.github.io/infovis/s4/tableau.html)
+1. [Tableau](https://martinezmanuelco.github.io/infovis/s4/tableau-.html)
