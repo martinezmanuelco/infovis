@@ -4,7 +4,7 @@
 
 Visualizaciones hechas:
 
-1. [Tableau](https://martinezmanuelco.github.io/infovis/s3/tableau.html)
+1. [Tableau](https://martinezmanuelco.github.io/infovis/s3/tableau-.html)
 
 ### COVID 19
 
@@ -18,3 +18,4 @@ Visualizaciones hechas:
 Visualizaciones hechas:
 
 1. [Tableau](https://martinezmanuelco.github.io/infovis/s3/index.html)
+
